@@ -26,3 +26,8 @@ This file is intended to list all the assets controlled by OpenTelemetry.
     - Member: Bogdan Drutu @bogdandrutu
 - [Calendar Google Group](https://groups.google.com/forum/#!forum/opentelemetry-calendar)
     - Owner: Morgan McLean @mtwo
+- [Medium publication](https://medium.com/opentelemetry)
+    - Editors: Ted Young, Sergey Kanzhelev, Ben Sigelman, Morgan McLean, Austin Parker, Amelia Mango
+- [Twitter](https://twitter.com/opentelemetry)
+    - e-mail: <unknown>
+    - owner: <unknown>
